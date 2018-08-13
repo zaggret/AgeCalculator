@@ -12,7 +12,7 @@ using std::endl;
 #define MAX_DAYS_IN_MONTH 31
 static int daysinMonth[12] = { 31,28,31,30,31,30,31,31,30,31,30,31 };//How many days in a month: Jan to Dec
 //!MONTHS RANGE FROM 1 TO 12
-
+void errorMessage(int);
 //Convert char to int 
 int userClass::charToInt(char ch) {
 	return ch - '0';
