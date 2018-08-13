@@ -4,3 +4,5 @@ The aim of the program is to get a users' birthday and display his age in Years,
 To count the timespan between dates the users birthday and the current date fetched from the local system are converted to Julian day numbers and the result of the comparison is returned to the user.
 
 ![alt text](https://raw.githubusercontent.com/zaggret/AgeCalculator/master/AgeCalculator.PNG)
+
+**Compiled in Visual Studio Community 2017**
