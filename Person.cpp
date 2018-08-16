@@ -121,7 +121,7 @@ void errorMessage(int msg) {
 		cout << "Invalid or wrongly formated input" << endl;
 		break;
 	case 1:
-		cout << "Invalid DD input";
+		cout << "Invalid DD input\n";
 		break;
 	}
 }
